@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @noe-tiger
+- 👀 I’m interested in embedded software development and AI
+- 🌱 I’m currently learning ble5.1 (more specifically AoA and AoE) as well as several deep learning application for video movment analysis
+- 📫 How to reach me : noe.tiger192@gmail.com
